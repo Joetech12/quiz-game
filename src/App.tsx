@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { fetchQuizQuestions } from './API';
-import Logo from './images/logo2.png'
+import Logo from './images/logo.png'
 // Components
 import QuestionCard from './components/QuestionCard';
 // types
