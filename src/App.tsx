@@ -96,7 +96,7 @@ const App: React.FC = () => {
             Next Question
           </button>
         ) : null}
-        <p style={{ bottom: "0px",  fontSize: "14px", marginTop: "50px",}}>Developed by - Ifeanyi Umeh</p>
+        <p style={{ fontSize: "14px", paddingTop: "50px",}}>Developed by - Ifeanyi Umeh</p>
       </Wrapper>
     </>
   );

@@ -9,7 +9,7 @@ export const GlobalStyle = createGlobalStyle`
   body {
     background-image: url(${BGImage});
     background-size: cover;
-    background-repeat: no-repeat;
+    /* background-repeat: no-repeat; */
     margin: 0;
     padding: 0 20px;
     display: flex;
